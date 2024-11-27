@@ -1,17 +1,4 @@
 {
-	"name": "koevy-bot",
-	"version": "1.0.0",
-	"description": "The Discord bot powering Koevy's Discord server.",
-	"main": "src/bot.js",
-	"scripts": {
-		"test": "node ."
-	},
-	"author": "Esoteric Foundation",
-	"contributors": [
-		"Esoteric Enderman",
-		"rolyPolyVole"
-	],
-	"license": "MIT",
 	"dependencies": {
 		"@discordjs/rest": "^1.4.0",
 		"chalk": "^4.1.2",
