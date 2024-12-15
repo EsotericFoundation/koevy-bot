@@ -1,5 +1,7 @@
 # Koevy Bot
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > The Discord bot powering Koevy's Discord server.
 
 This version of the bot most likely doesn't work (it has not been properly tested).
