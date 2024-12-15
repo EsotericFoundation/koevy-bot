@@ -6,7 +6,7 @@ This version of the bot most likely doesn't work (it has not been properly teste
 
 ## License
 
-[Koevy Bot](https://github.com/EsotericFoundation/koevy-bot) Copyright (C) 2024 [Esoteric Foundation](https://esoteric.foundation)
+[Koevy Bot](./) Copyright (C) 2024 [Esoteric Foundation](https://esoteric.foundation)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
 
